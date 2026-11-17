@@ -1,1 +1,1 @@
-上传到脚本，添加
+Add the JS file to Flclash
